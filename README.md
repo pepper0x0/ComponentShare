@@ -19,7 +19,62 @@ cd code-component-sharing-hub
 Here’s the structure of the project. Ensure that you place your files in the correct folders and follow proper naming conventions:
 
 
-src/ ├── App.css ├── App.jsx ├── Footer/ │ ├── footer_code_files/ │ │ └── Footer001.jsx │ └── footer_assets/ ├── Home.jsx ├── LandingPage/ │ ├── landing_page_assets/ │ │ ├── LP001_1.jpg │ │ └── LP001_2.jpg │ ├── landing_page_code_files/ │ │ └── LandingPage001.jsx │ └── landing_page_css/ ├── Login/ │ ├── loginPage_assets/ │ ├── loginPage_code/ │ └── loginPage_css/ ├── Navbar/ │ ├── navbar_assets/ │ ├── navbar_code_files/ │ └── navbar_css/ ├── Buttons/ ├── Cards/ ├── skys_components/ │ ├── Footer.jsx │ ├── Header.jsx │ └── pages/ │ ├── ButtonShowcase.jsx │ ├── CardsShowcase.jsx │ ├── FooterShowcase.jsx │ ├── HeaderShowcase.jsx │ ├── LandingPageShowcase.jsx │ └── LoginSignupShowcase.jsx └── index.css └── main.jsx
+C:.
+  App.css
+  App.jsx
+  Home.jsx
+  index.css
+  main.jsx
+  output.txt
+  
+-assets
+  react.svg
+  
+-Buttons
+  -button_assets
+  -button_code_files
+  -button_css
+  
+-Cards
+  -card_assets
+  -card_code_files
+  -card_css
+  
+-Footer
+  -footer_assets
+  -footer_code_files
+    Footer001.jsx
+  -footer_css
+  
+-LandingPage
+  -landing_page_assets
+    LP001_1.jpg
+    LP001_2.jpg
+  -landing_page_code_files
+    LandingPage001.jsx
+  -landing_page_css
+  
+-Login
+  -loginPage_assets
+  -loginPage_code
+  -loginPage_css
+  
+-Navbar
+  -navbar_assets
+  -navbar_code_files
+  -navbar_css
+  
+-skys_components
+  Footer.jsx
+  Header.jsx
+  -pages
+    ButtonShowcase.jsx
+    CardsShowcase.jsx
+    FooterShowcase.jsx
+    HeaderShowcase.jsx
+    LandingPageShowcase.jsx
+    LoginSignupShowcase.jsx
+
 
 
 
