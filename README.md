@@ -6,6 +6,10 @@ Welcome to the **Component Share**, an open-source platform where developers can
 
 1. **Fork** this repository.
 2. **Clone** the forked repo to your local machine.
+git clone https://github.com/yourusername/code-component-sharing-hub.git
+Navigate into the directory:
+cd code-component-sharing-hub
+
 3. Add your code in the appropriate folder, ensuring you follow the naming conventions outlined below.
 4. use 'npm run dev' to check
 5. Push your changes and create a pull request! 🎉
@@ -15,7 +19,49 @@ Welcome to the **Component Share**, an open-source platform where developers can
 Here’s the structure of the project. Ensure that you place your files in the correct folders and follow proper naming conventions:
 
 
-. ├── assets/ ├── buttons/ │ ├── button_assets/ │ ├── button_code_files/ │ └── button_css/ ├── cards/ │ ├── card_assets/ │ ├── card_code_files/ │ └── card_css/ ├── footer/ │ ├── footer_assets/ │ ├── footer_code_files/ │ └── footer_css/ │ └── Footer001.jsx ├── landingPage/ │ ├── landing_page_assets/ │ ├── landing_page_code_files/ │ ├── landing_page_css/ │ │ ├── LP001_1.jpg │ │ └── LP001_2.jpg │ └── LandingPage001.jsx ├── login/ │ ├── loginPage_assets/ │ ├── loginPage_code/ │ └── loginPage_css/ ├── navbar/ │ ├── navbar_assets/ │ ├── navbar_code_files/ │ └── navbar_css/ ├── pages/ │ ├── ButtonShowcase.jsx │ ├── CardsShowcase.jsx │ ├── FooterShowcase.jsx │ ├── HeaderShowcase.jsx │ ├── LandingPageShowcase.jsx │ └── LoginSignupShowcase.jsx ├── App.css ├── App.jsx ├── Home.jsx ├── index.css └── main.jsx
+.
+├── assets/
+├── buttons/
+│   ├── button_assets/
+│   ├── button_code_files/
+│   └── button_css/
+├── cards/
+│   ├── card_assets/
+│   ├── card_code_files/
+│   └── card_css/
+├── footer/
+│   ├── footer_assets/
+│   ├── footer_code_files/
+│   └── footer_css/
+│       └── Footer001.jsx
+├── landingPage/
+│   ├── landing_page_assets/
+│   ├── landing_page_code_files/
+│   ├── landing_page_css/
+│   │   ├── LP001_1.jpg
+│   │   └── LP001_2.jpg
+│   └── LandingPage001.jsx
+├── login/
+│   ├── loginPage_assets/
+│   ├── loginPage_code/
+│   └── loginPage_css/
+├── navbar/
+│   ├── navbar_assets/
+│   ├── navbar_code_files/
+│   └── navbar_css/
+├── pages/
+│   ├── ButtonShowcase.jsx
+│   ├── CardsShowcase.jsx
+│   ├── FooterShowcase.jsx
+│   ├── HeaderShowcase.jsx
+│   ├── LandingPageShowcase.jsx
+│   └── LoginSignupShowcase.jsx
+├── App.css
+├── App.jsx
+├── Home.jsx
+├── index.css
+└── main.jsx
+
 
 
 
@@ -38,13 +84,8 @@ CSS and other files go into the respective folders and use the same naming forma
   
   // Futuristic landing page component: LandingPage001, TechUsed: 'React, TailwindCSS', name: 'Minimalist Landing Page'author: 'Sky', githubLink: 'https://github.com/skycypherxo'
 
-📖 How to Run
-Clone the repository:
 
-git clone https://github.com/yourusername/code-component-sharing-hub.git
 
-Navigate into the directory:
-cd code-component-sharing-hub
 
 Add your components and create a PR! 🔥
 💬 Community and Support
