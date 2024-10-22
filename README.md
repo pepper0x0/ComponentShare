@@ -7,7 +7,8 @@ Welcome to the **Component Share**, an open-source platform where developers can
 1. **Fork** this repository.
 2. **Clone** the forked repo to your local machine.
 3. Add your code in the appropriate folder, ensuring you follow the naming conventions outlined below.
-4. Push your changes and create a pull request! 🎉
+4. use 'npm run dev' to check
+5. Push your changes and create a pull request! 🎉
 
 ## 📁 Project Structure
 
